@@ -46,14 +46,14 @@ A comprehensive demonstration script that covers:
 To run the main demonstration:
 
 ```bash
-lua examples/tables_and_objects_demo.lua
+lua tables_and_objects_demo.lua
 ```
 
 Or make it executable and run directly:
 
 ```bash
-chmod +x examples/tables_and_objects_demo.lua
-./examples/tables_and_objects_demo.lua
+chmod +x tables_and_objects_demo.lua
+./tables_and_objects_demo.lua
 ```
 
 ## Learning Objectives

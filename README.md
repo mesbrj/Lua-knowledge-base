@@ -6,6 +6,4 @@
 
 ## Examples
 
-Check out the `examples/` folder for practical demonstrations:
-
-- **[tables_and_objects_demo.lua](examples/tables_and_objects_demo.lua)** - Comprehensive demonstration of tables, objects, metatables, metamethods, classes, and inheritance
+- **[tables_and_objects_demo.lua](tables_and_objects_demo.md)** - Comprehensive demonstration of tables, objects, metatables, metamethods, classes, and inheritance
