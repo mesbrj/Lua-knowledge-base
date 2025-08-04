@@ -66,9 +66,3 @@ After studying these examples, you should understand:
 - How to create classes and inheritance hierarchies
 - How to use metamethods for operator overloading
 - Practical applications of these concepts in real projects
-
-## References
-
-- [Programming in Lua - Tables](https://www.lua.org/pil/11.html)
-- [Programming in Lua - Metatables and Metamethods](https://www.lua.org/pil/13.html)
-- [Programming in Lua - Object-Oriented Programming](https://www.lua.org/pil/16.html)
